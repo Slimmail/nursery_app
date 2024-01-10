@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "pet_name": "\u0421\u043e\u0431\u0430\u043a\u0430",
+        "pet_class": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0435",
+        "commands": "\u0433\u0430\u0432, \u043f\u0443\u043a, lolol, rrrt, yyyu, kek, twet, sfgj, qwr, gdgh",
+        "pet_type": "\u0421\u043e\u0431\u0430\u043a\u0430",
+        "timestamp": "2024-01-10 11:51:46"
+    },
+    {
+        "id": 2,
+        "pet_name": "\u043c\u044f\u0443\u043a",
+        "pet_class": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0435",
+        "commands": "\u043c\u044f\u0443, kokol, rty, \u0446\u0443\u043a\u0446\u0443\u0435, \u0432\u043f\u0432\u0430\u0440",
+        "pet_type": "\u041a\u043e\u0448\u043a\u0430",
+        "timestamp": "2024-01-10 12:08:07"
+    },
+    {
+        "id": 4,
+        "pet_name": "Koresh",
+        "pet_class": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0435",
+        "commands": "sluzhit",
+        "pet_type": "\u0421\u043e\u0431\u0430\u043a\u0430",
+        "timestamp": "2024-01-10 12:33:49"
+    },
+    {
+        "id": 6,
+        "pet_name": "\u041e\u0441\u043e\u043e",
+        "pet_class": "\u0412\u044c\u044e\u0447\u043d\u044b\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0435",
+        "commands": "\u0438\u043a\u0430\u0442\u044c, \u0441\u043a\u0430\u043a\u0430\u0442\u044c, \u0443\u0434\u0430\u0440 \u0445\u0432\u043e\u0441\u0442\u043e\u043c",
+        "pet_type": "\u041e\u0441\u0451\u043b",
+        "timestamp": "2024-01-10 15:36:29"
+    }
+]
